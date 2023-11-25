@@ -5,6 +5,5 @@
 Run:
 
 ```
-npm i
 npm run test
 ```
