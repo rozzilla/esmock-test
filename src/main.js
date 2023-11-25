@@ -1,3 +1,5 @@
-import { sum } from "./sum.js";
+const { sum } = require("./sum.js");
 
-export const main = () => sum(1, 1);
+const main = () => sum(1, 1);
+
+module.exports = { main };
